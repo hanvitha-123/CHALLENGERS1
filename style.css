@@ -1,0 +1,15 @@
+mydiv{
+    background-color:white;
+    color:black;
+    border-style:double;
+    border-color: black;
+    width:400px;
+    height:400px;
+}
+.heydiv{
+    background-color:gainsboro;
+    color:black;
+    width:280px;
+    height:320px;
+
+}
